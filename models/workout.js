@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 //creating the database named workout
 const workoutSchema = new Schema({
 
-    date: {
+    day: {
         type: Date,
         default: Date.now
     },
@@ -36,10 +36,13 @@ const workoutSchema = new Schema({
 
             sets: {
                 type: Number
+            },
+
+            distance: {
+                type: Number
             }
         }
     ]
-
 },
 
     {
