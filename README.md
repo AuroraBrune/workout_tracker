@@ -71,4 +71,4 @@ Screenshots of Workout Tracker in browser
 -
 ![WorkoutTracker](./assets/images/workoutTrackerScreen3.jpg)
 -
-![WorkoutTracker](./aassets/images/workoutTrackerScreen4.jpg)
+![WorkoutTracker](./assets/images/workoutTrackerScreen4.jpg)
