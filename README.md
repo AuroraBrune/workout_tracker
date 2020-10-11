@@ -53,5 +53,22 @@ We want you to have well over 200 commits by graduation, so commit early and oft
 You are required to submit the following:
 
 * The URL to the deployed application
-
+https://polar-savannah-26523.herokuapp.com/
+-
 * The URL to the GitHub repository
+https://github.com/AuroraBrune/workout_tracker
+--------------------
+
+Screenshots of Workout Tracker in action
+---
+![Robo3Tdatabase](./assets/images/robo3TdatabaseWorkoutTracker.jpg)
+-
+Screenshots of Workout Tracker in browser
+-
+![WorkoutTracker](./assets/images/WorkoutTrackerScreen1.jpg)
+-
+![WorkoutTracker](./assets/images/workoutTrackerScreen2.jpg)
+-
+![WorkoutTracker](./assets/images/workoutTrackerScreen3.jpg)
+-
+![WorkoutTracker](./aassets/images/workoutTrackerScreen4.jpg)
