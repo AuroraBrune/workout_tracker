@@ -54,7 +54,7 @@ You are required to submit the following:
 
 * The URL to the deployed application
 https://polar-savannah-26523.herokuapp.com/
--
+
 * The URL to the GitHub repository
 https://github.com/AuroraBrune/workout_tracker
 --------------------
